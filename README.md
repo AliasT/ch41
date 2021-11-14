@@ -4,4 +4,6 @@
 
 _"What I cannot create, I do not understand." - [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)_
 
+_"We can solve any problem by introducing an extra level of indirection." - [David Wheeler](https://www.wikiwand.com/en/David_Wheeler_(computer_scientist))_
+
 _"Nothing great is made alone." - [Figma](https://www.figma.com/nothing-great-is-made-alone/?utm_source=dribbble&utm_medium=display&utm_campaign=ngima&utm_content=genius)_
